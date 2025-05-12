@@ -3,18 +3,18 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
+title: Sunni | A forever learner
+subtitle: '行迷未远，往观四荒'
+description: '一个树洞，记录学习、思考和生活'
 keywords:
-author: John Doe
-language: en
-timezone: ''
+author: Sunni G
+language: zh-CN
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
-permalink: :year/:month/:day/:title/
+url: https://blog.guohengyi.com
+permalink: posts/:category/:title/
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
