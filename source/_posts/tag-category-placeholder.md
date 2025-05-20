@@ -1,5 +1,5 @@
 ---
-title: 占位文章
+title: 测试文章
 date: 2025-05-15
 categories:
   - EatPrayLove
@@ -8,10 +8,12 @@ categories:
   - 浮光记
   - 格物志
   - 行看集
+my_categories: [与友信, 沉思录, 浮光记, 格物志, 行看集]
 tags:
   - 大学
   - 三明治
   - 舞蹈
-layout: false
-published: false
+layout: true
+permalink: false
+hide: false
 ---
