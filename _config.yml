@@ -98,6 +98,13 @@ ignore:
 ## Themes: https://hexo.io/themes/
 theme: a4
 
+githubEmojis:
+  enable: true
+  className: github-emoji
+  unicode: false
+  styles:
+  localEmojis:
+
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
