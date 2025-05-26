@@ -11,6 +11,9 @@ author: Sunni G
 language: zh-CN
 timezone: 'Asia/Shanghai'
 
+# 自定义配置项
+fragments_dir: source/_fragments
+
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: https://blog.guohengyi.com
