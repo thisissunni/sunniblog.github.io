@@ -6,6 +6,22 @@ layout: page
 
 2025 梦之夏
 
+## 2025-05-26 13:41 夏 ☀️
+
+<div class="now-box">
+
+“延长和你明澈的精神共度的那个瞬间”
+
+我做到了吗
+
+-
+
+要继续向前走了
+
+</div>
+
+<p style="text-align:right;"><a href="/fragments/">🧩所有碎片</a></p>
+
 ### 2025-05-24 22:22 夏 ☀️
 
 <div class="now-box">
