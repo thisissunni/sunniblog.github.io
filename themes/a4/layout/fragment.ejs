@@ -1,0 +1,9 @@
+<%- partial('_partial/header') %>
+
+<article class="fragment">
+  <h1><%= page.title %></h1>
+  <p><%= date(page.date, 'YYYY-MM-DD HH:mm') %></p>
+  <div><%- page.content %></div>
+</article>
+
+<%- partial('_partial/footer') %>
