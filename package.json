@@ -1,0 +1,11 @@
+{
+  "name": "sunniblog",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "hexo generate"
+  },
+  "devDependencies": {
+    "hexo-cli": "^6.1.0"
+  }
+}
+
