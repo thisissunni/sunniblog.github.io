@@ -6,7 +6,6 @@
     "build": "hexo generate"
   },
   "devDependencies": {
-    "hexo-cli": "4.3.2"
+    "hexo-cli": "^4.3.2"
   }
 }
-
