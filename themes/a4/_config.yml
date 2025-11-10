@@ -43,7 +43,7 @@ footerLink: # 底部的链接自定义
   # ...
 
 post:
-  footer: 🌊看过大海的人不会忘记海的广阔🌊
+  footer: 🌊创造而非透支🌊
   themeInfo: true # 是否开启底部右侧声明本站信息
   width: middle  #  middle | big 
   titlePosition: center # left ｜ center 文章标题的位置
@@ -122,7 +122,7 @@ color:
 # 图片你应该先放到 source下，下面选项的图片路径 即为 相对于 source 目录的路径
 imageShow:
   enable: true
-  background: /images/bg.jpg # 最底部层背景
+  background: /images/bg2.jpg # 最底部层背景
   opacity: 0.5
   blur: true
 
